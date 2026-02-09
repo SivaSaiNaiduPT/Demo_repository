@@ -2,3 +2,6 @@ this is the 6th file
 .
 
 this line is added from gitub ui
+
+
+this line is added from the local repository.
